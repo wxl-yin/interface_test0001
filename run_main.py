@@ -9,6 +9,8 @@ from plugins import HTMLTestRunnerPlugins
 
 
 def load_suites(suite_path, rule):
+ 
+ 
     """
     加载制定目录下的所有测试用例
     :param suite_path: 用例所在的路径
